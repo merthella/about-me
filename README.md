@@ -55,13 +55,6 @@ Markdown     52 mins         █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<details>
-<summary>GitHub Stats</summary>
-All repos are private :(
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-</details>
-
 -----
 
 
