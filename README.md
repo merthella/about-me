@@ -25,8 +25,8 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://abhisheknaidu.tech), a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
-
+Hello, I'm mert, someone who can work on his own in anything, mainly in c +++, java, and I'm also from turkey graduated from cosmos software anadolu high school. 
+I have projects that have been invested by a few others in the fields of robotics and a few game add-ons. 
   
 **Talking about Personal Stuffs:**
 
