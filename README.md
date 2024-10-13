@@ -8,8 +8,8 @@ I have projects that have been invested by a few others in the fields of robotic
   
 **Talking about Personal Stuffs:**
 
-- I’m currently learning C++ and Java; 
-- How to reach me: m3rthn.k@gmail.com;
+- I’m currently learning C++ and Java
+- How to reach me: m3rthn.k@gmail.com
 
 **Languages and Tools:**  
 
