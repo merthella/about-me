@@ -3,9 +3,19 @@
 
 <br />
 
-I'm mert, someone who can work on his own in anything, mainly in c++, java, and I'm also from turkey graduated from cosmos software anadolu high school. 
-I have projects that have been invested by a few others in the fields of robotics and a few game add-ons. 
-  
+# About Me
+
+Hello! I'm Mert, a versatile developer with expertise in C++ and Java. I graduated from Cosmos Software Anadolu High School in Turkey. 
+
+## Projects
+
+I have worked on several projects, including:
+
+- **Robotics**: Engaged in innovative robotics projects that have attracted investment.
+- **Game Add-Ons**: Developed various add-ons to enhance gameplay experiences.
+
+I am passionate about technology and enjoy tackling challenges independently. Feel free to explore my projects and connect!
+
 **Talking about Personal Stuffs:**
 - Interested in reverse engineering
 - I’m currently learning everything ^^
