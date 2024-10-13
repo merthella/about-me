@@ -3,12 +3,12 @@
 
 <br />
 
-Hello, I'm mert, someone who can work on his own in anything, mainly in c++, java, and I'm also from turkey graduated from cosmos software anadolu high school. 
+I'm mert, someone who can work on his own in anything, mainly in c++, java, and I'm also from turkey graduated from cosmos software anadolu high school. 
 I have projects that have been invested by a few others in the fields of robotics and a few game add-ons. 
   
 **Talking about Personal Stuffs:**
 
-- I’m currently learning C++ and Java
+- I’m currently learning everything ^^
 - How to reach me: m3rthn.k@gmail.com
 
 **Languages and Tools:**  
