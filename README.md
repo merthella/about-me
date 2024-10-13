@@ -24,13 +24,6 @@ I have projects that have been invested by a few others in the fields of robotic
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C++          9 hrs 42 mins   █████████████▓░░░░░░░░░░░   62.04 % 
-Markdown     52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-```
-<!--END_SECTION:waka-->
 
 -----
 
