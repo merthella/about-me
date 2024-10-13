@@ -10,6 +10,7 @@ I have projects that have been invested by a few others in the fields of robotic
 
 - I’m currently learning C++ and Java
 - How to reach me: m3rthn.k@gmail.com
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
