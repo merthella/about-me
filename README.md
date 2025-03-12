@@ -1,28 +1,53 @@
-# About Me
+# About Me / Hakkımda
 
-Hello! I'm Mert, a versatile developer with expertise in C++ and Java. I graduated from Cosmos Software Anadolu High School in Turkey.
+Hello! I'm Mert, a software developer focused on learning C++ and Java. Recent graduate of Cosmos Software Anadolu High School in Turkey, currently building practical skills through projects.
 
-## Projects
+Merhaba! Ben Mert, C++ ve Java öğrenmeye odaklanan bir yazılım geliştiriciyim. Cosmos Software Anadolu Lisesi mezunuyum ve projeler aracılığıyla pratik becerilerimi geliştiriyorum.
 
-I have worked on several projects, including:
+---
 
-- **Robotics**: Engaged in innovative robotics projects that have attracted investment.
-- **Game Add-Ons**: Developed various add-ons to enhance gameplay experiences.
+## Projects / Projeler
 
-## Personal Interests
+**Robotics**  
+- Heropet / kozmos (the food dispenser for street animals9  
 
-- Interested in reverse engineering
-- Currently learning everything! 😊
-- How to reach me: [m3rthn.k@gmail.com](mailto:m3rthn.k@gmail.com)
+**Game Modifications**  
+- Extreme gameplay tweaks for open/closed source games  
+ 
 
-I am passionate about technology and enjoy tackling challenges independently. Feel free to explore my projects and connect!
+---
 
-## Languages and Tools
+## Skills & Learning / Beceriler & Öğrenim
 
-<code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
+**Programming Languages**  
+- C++ (Fundamentals: OOP, Data Structures)  
+- Java (Console Applications)  
+- Python (Scripting Basics)  
+
+**Tools & Technologies**  
+- Git etc  
+- Visual Studio / Code
+- JetBrains IDE's  
+
+---
+
+## Contact / İletişim
+
+**Email**: [m3rthn.k@gmail.com](mailto:m3rthn.k@gmail.com)  
+**Collaboration**: Open to any kind of projects  
+
+---
+
+## Technical Stack / Teknoloji Stratejim
+
+**Core Development**  
+<code><img height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"></code>
+
+**Web Fundamentals**  
+<code><img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></code>
+
+**Development Tools**  
+<code><img height="25" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></code>
