@@ -9,12 +9,11 @@ Merhaba! Ben Mert, C++ ve Java öğrenmeye odaklanan bir yazılım geliştiriciy
 ## Projects / Projeler
 
 **Robotics**  
-- Heropet / kozmos (the food dispenser for street animals9  
+- Heropet / kozmos (the food dispenser for street animals)
 
 **Game Modifications**  
 - Extreme gameplay tweaks for open/closed source games  
  
-
 ---
 
 ## Skills & Learning / Beceriler & Öğrenim
