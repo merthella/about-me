@@ -18,8 +18,8 @@ Hello! I'm Mert, a software developer focused on learning C++ and Java. Recent g
 
 **Programming Languages**  
 - C++ (Fundamentals: OOP, Data Structures)  
-- Java (Console Applications)  
-- Python (Scripting Basics)  
+- Java (Creating mobile applications, making custom game clients)  
+- Python (Fundamentals)  
 
 **Tools & Technologies**  
 - Visual Studio / Code
