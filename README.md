@@ -1,4 +1,4 @@
-# About Me / Hakkımda
+# About Me
 
 Hello! I'm Mert, a software developer focused on learning C++ and Java. Recent graduate of Cosmos Software Anadolu High School in Turkey, currently building practical skills through projects.
 
