@@ -2,11 +2,9 @@
 
 Hello! I'm Mert, a software developer focused on learning C++ and Java. Recent graduate of Cosmos Software Anadolu High School in Turkey, currently building practical skills through projects.
 
-Merhaba! Ben Mert, C++ ve Java öğrenmeye odaklanan bir yazılım geliştiriciyim. Cosmos Software Anadolu Lisesi mezunuyum ve projeler aracılığıyla pratik becerilerimi geliştiriyorum.
-
 ---
 
-## Projects / Projeler
+## Projects 
 
 **Robotics**  
 - Heropet / kozmos (the food dispenser for street animals)
@@ -16,7 +14,7 @@ Merhaba! Ben Mert, C++ ve Java öğrenmeye odaklanan bir yazılım geliştiriciy
  
 ---
 
-## Skills & Learning / Beceriler & Öğrenim
+## Skills & Learning
 
 **Programming Languages**  
 - C++ (Fundamentals: OOP, Data Structures)  
@@ -29,14 +27,14 @@ Merhaba! Ben Mert, C++ ve Java öğrenmeye odaklanan bir yazılım geliştiriciy
 
 ---
 
-## Contact / İletişim
+## Contact
 
 **Email**: [m3rthn.k@gmail.com](mailto:m3rthn.k@gmail.com)  
 **Collaboration**: Open to any kind of projects  
 
 ---
 
-## Technical Stack / Teknoloji Stratejim
+## Technical Stack
 
 **Core Development**  
 <code><img height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"></code>
