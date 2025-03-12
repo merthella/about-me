@@ -12,7 +12,7 @@ Merhaba! Ben Mert, C++ ve Java öğrenmeye odaklanan bir yazılım geliştiriciy
 - Heropet / kozmos (the food dispenser for street animals)
 
 **Game Modifications**  
-- Extreme gameplay tweaks for open/closed source games  
+- Extreme gameplay tweaks (dlc's a.k.a memory write) for open/closed source games  
  
 ---
 
@@ -24,7 +24,6 @@ Merhaba! Ben Mert, C++ ve Java öğrenmeye odaklanan bir yazılım geliştiriciy
 - Python (Scripting Basics)  
 
 **Tools & Technologies**  
-- Git etc  
 - Visual Studio / Code
 - JetBrains IDE's  
 
