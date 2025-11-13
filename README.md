@@ -10,7 +10,7 @@ Hello! I'm Mert, a software developer focused on learning C++ and Java. Recent g
 - Heropet / kozmos (the food dispenser for street animals)
 
 **Game Modifications**  
-- Extreme gameplay tweaks (dlc's a.k.a memory write) for open/closed source games  
+- Extreme gameplay tweaks (dlc's a.k.a memory edit) for open/closed source games  
  
 ---
 
